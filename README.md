@@ -28,7 +28,9 @@ Avant lancer votre application vous devez d'abord telecharger le jar de Jade sur
 
 <h4>Selection du prix le moins cher proposer par l'un des vendeurs.</h4>
 <img src="https://github.com/AbdeslamRehaimi/Laravel_CRUD-Backpack_DemoApp/blob/master/8.png">
+
 ## Contributor
+
 <table>
   <tbody>
     <tr>
