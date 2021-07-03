@@ -41,13 +41,6 @@ Avant lancer votre application vous devez d'abord telecharger le jar de Jade sur
           Mariam Quarne
         </a>
       </td>
-      <td align="center">
-        <a href="https://github.com/AbdeslamRehaimi">
-          <img width="150" height="150" src="https://github.com/AbdeslamRehaimi.png?v=3&s=150">
-          </br>
-          Abdeslam Rehaimi
-        </a>
-      </td>
     </tr>
   <tbody>
 </table>
